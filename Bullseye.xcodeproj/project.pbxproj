@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B4C8E5D5248642DA004E113C /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4C8E5D4248642DA004E113C /* AboutView.swift */; };
 		B4F85562247C0FBD00EE8D42 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4F85561247C0FBD00EE8D42 /* AppDelegate.swift */; };
 		B4F85564247C0FBD00EE8D42 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4F85563247C0FBD00EE8D42 /* SceneDelegate.swift */; };
 		B4F85566247C0FBD00EE8D42 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4F85565247C0FBD00EE8D42 /* ContentView.swift */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		B4C8E5CF2486215E004E113C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B4C8E5D4248642DA004E113C /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 		B4F8555E247C0FBD00EE8D42 /* Bullseye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bullseye.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4F85561247C0FBD00EE8D42 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B4F85563247C0FBD00EE8D42 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				B4F8556C247C0FBE00EE8D42 /* LaunchScreen.storyboard */,
 				B4F8556F247C0FBE00EE8D42 /* Info.plist */,
 				B4F85569247C0FBE00EE8D42 /* Preview Content */,
+				B4C8E5D4248642DA004E113C /* AboutView.swift */,
 			);
 			path = Bullseye;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B4C8E5D5248642DA004E113C /* AboutView.swift in Sources */,
 				B4F85562247C0FBD00EE8D42 /* AppDelegate.swift in Sources */,
 				B4F85564247C0FBD00EE8D42 /* SceneDelegate.swift in Sources */,
 				B4F85566247C0FBD00EE8D42 /* ContentView.swift in Sources */,
